@@ -9,8 +9,8 @@ const Home = () => {
           <h1
             className="bg-gradient-to-r from-green-300 via-blue-500 to-purple-600 bg-clip-text text-3xl font-extrabold text-transparent sm:text-5xl"
           >
-            Hi!, I'm Agus
-            <span className="sm:block"> I'm a Full Stack Developer</span>
+            Hi!, I'm Hafizh Raihan
+            <span className="sm:block"> I'm a Junior Frontend Developer</span>
           </h1>
 
           <p className="mx-auto mt-4 max-w-xl sm:text-xl/relaxed"></p>
