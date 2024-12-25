@@ -36,7 +36,7 @@ const CardTemplate = ({ text, bgImage, children, newText }) => {
 const About = () => {
   const skills = [
     {
-      title: "HTML1",
+      title: "HTML",
       description: "HTML (HyperText Markup Language) adalah bahasa standar yang digunakan untuk membuat dan menyusun halaman web. HTML adalah tulang punggung dari semua halaman web, yang menyediakan struktur dasar untuk menampilkan teks, gambar, video, dan elemen lain di internet.",
       image: "/images/html.png", // Pastikan gambar ada di folder public/images
     },
@@ -47,7 +47,7 @@ const About = () => {
     },
     {
       title: "React JS",
-      description: "Description of Skill 3.",
+      description: "adalah pustaka (library) JavaScript yang digunakan untuk membangun antarmuka pengguna (UI) yang dinamis dan responsif. React dikembangkan oleh Facebook dan saat ini dikelola oleh Meta bersama komunitas open-source. React sangat populer dalam pengembangan web modern karena kecepatan, efisiensi, dan kemudahan penggunaannya.",
       image: "/images/jsx.png", // Pastikan gambar ada di folder public/images
     },
   ];
