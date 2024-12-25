@@ -36,17 +36,17 @@ const CardTemplate = ({ text, bgImage, children, newText }) => {
 const About = () => {
   const skills = [
     {
-      title: "Skill 1",
-      description: "Description of Skill 1.",
+      title: "HTML1",
+      description: "HTML (HyperText Markup Language) adalah bahasa standar yang digunakan untuk membuat dan menyusun halaman web. HTML adalah tulang punggung dari semua halaman web, yang menyediakan struktur dasar untuk menampilkan teks, gambar, video, dan elemen lain di internet.",
       image: "/images/html.png", // Pastikan gambar ada di folder public/images
     },
     {
-      title: "Skill 2",
-      description: "Description of Skill 2.",
+      title: "CSS",
+      description: "bahasa yang digunakan untuk mengatur tampilan dan tata letak elemen pada halaman web. Dengan CSS, Anda dapat mengubah warna, font, ukuran, jarak, dan banyak aspek lain dari elemen HTML untuk membuat halaman web lebih menarik dan profesional.",
       image: "/images/css.png", // Pastikan gambar ada di folder public/images
     },
     {
-      title: "Skill 3",
+      title: "React JS",
       description: "Description of Skill 3.",
       image: "/images/jsx.png", // Pastikan gambar ada di folder public/images
     },
